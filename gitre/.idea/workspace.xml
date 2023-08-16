@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84dbfd68-ca6c-4068-83c4-9beb7d725526" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/gitrepo/find-empty-hooks.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitrepo/pyinstaller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gitrepo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gitrepo/.idea/gitrepo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gitrepo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gitrepo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gitrepo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gitrepo/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2K9Be7xg46q5TB8sIDe38XBcIMH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Gairick/Desktop/gitre"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84dbfd68-ca6c-4068-83c4-9beb7d725526" name="Changes" comment="" />
+      <created>1673377010661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673377010661</updated>
+    </task>
+    <servers />
+  </component>
+</project>
